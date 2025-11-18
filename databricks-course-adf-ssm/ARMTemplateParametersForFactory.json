@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "databricks-course-adf-ssm"
+		},
+		"ls_movie_history_adls_accountKey": {
+			"value": ""
+		},
+		"LS_Databricks_properties_typeProperties_existingClusterId": {
+			"value": "1021-073915-qjp0tuyo"
+		},
+		"ls_movie_history_adls_properties_typeProperties_url": {
+			"value": "https://mymoviehistory.dfs.core.windows.net/"
+		},
+		"tg_proccess_movie_history_properties_pl_proccess_movie_history_parameters_p_environment": {
+			"value": "Production"
+		},
+		"tg_proccess_movie_history_properties_pl_proccess_movie_history_parameters_p_file_date": {
+			"value": "2024-12-30"
+		}
+	}
+}
