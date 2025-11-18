@@ -1,0 +1,9 @@
+{
+	"name": "databricks-course-adf-ssm",
+	"location": "spaincentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f19cc4d5-cb99-4744-9e91-24a50b3367a0",
+		"tenantId": "9e56e24d-ff0a-43b3-a26c-a0007810cbf8"
+	}
+}
